@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/blue"> <!-- Цвет эффекта ряби -->
+    <item>
+        <shape>
+            <solid android:color="@color/dark_blue" /> <!-- Цвет по умолчанию -->
+            <corners android:radius="8dp" /> <!-- Закругленные углы -->
+        </shape>
+    </item>
+</ripple>
